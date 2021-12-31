@@ -1,4 +1,4 @@
-## Hi, I'm [Prabhat rai!](www.linkedin.com/in/prabhat-rai) 👋
+## Hi, I'm [Prabhat rai!](https://linkedin.com/in/prabhat-rai) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat1707&label=Views&color=blue&style=plastic" alt="prabhat1707" /> </p>
 </a>
