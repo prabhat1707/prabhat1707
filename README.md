@@ -18,7 +18,7 @@
 <br/>
 
 - 🔭 I’m currently working as SDE 3.
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Devops, Blockchain and cloud Tech.
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking for More contributors on my Below Projects.
 - 💬 Ask me about Android, React Native or any tech-related stuff.
