@@ -23,6 +23,9 @@
 - 🤔 I’m looking for More contributors on my Below Projects.
 - 💬 Ask me about Android, React Native or any tech-related stuff.
 - 😄 Pronouns: He/His
+
+![Snake animation](https://github.com/prabhat1707/prabhat1707/blob/output/github-contribution-grid-snake-dark.svg)
+
 [![Linkedin: imthepk](https://img.shields.io/badge/-prabhat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhat-rai/)](https://www.linkedin.com/in/prabhat-rai/)
 [![GitHub prabhat1707](https://img.shields.io/github/followers/prabhat1707?label=follow&style=social)](https://https://github.com/prabhat1707)
 
